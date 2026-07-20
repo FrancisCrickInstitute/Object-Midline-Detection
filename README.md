@@ -15,6 +15,6 @@ needed. Everything is documented inline; just run the cells top to bottom.
 ## Run locally
 
 ```bash
-pip install numpy tifffile scikit-image scipy matplotlib skan
+pip install numpy tifffile scikit-image scipy matplotlib skan networkx
 jupyter lab midline-detection.ipynb
 ```
